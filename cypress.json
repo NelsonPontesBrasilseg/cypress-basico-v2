@@ -1,0 +1,9 @@
+{
+    
+    "chromeWebSecurity": false,
+    "pluginsFile": false,
+    "viewportHeight":800,
+    "viewporWidth": 1280,
+    "pageLoadTimeout": 50000
+
+}
